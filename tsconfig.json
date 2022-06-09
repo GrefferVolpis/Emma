@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "ESNext",
+    "outDir": "./dist",
+    "inlineSourceMap": true,
+    "baseUrl": "./"
+  },
+  "exclude": ["node_modules"]
+}

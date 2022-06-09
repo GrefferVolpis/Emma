@@ -1,0 +1,5 @@
+export enum TYPE_INDICATOR {
+  LINE = 'LINE',
+  TREND = 'TREND',
+  OSCILLATOR = 'OSCILLATOR'
+}
